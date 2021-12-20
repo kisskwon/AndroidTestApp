@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">testapp</string>
+
+    <string name="lt_no_permissions_toast">"권한에 동의하지 않아 %1$s를 사용할 수 없습니다."</string>
+    <string name="lt_lg_account">"LG 계정"</string>
+</resources>
